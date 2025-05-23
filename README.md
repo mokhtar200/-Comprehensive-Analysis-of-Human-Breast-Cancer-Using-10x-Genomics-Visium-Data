@@ -53,22 +53,10 @@ https://www.10xgenomics.com/datasets/human-breast-cancer-visium-fresh-frozen-who
 ## 🗂 Directory Structure
 
 SpatialInsight_BreastCancer/
-│
-├── data/ # Raw dataset from 10x Genomics
-│ └── V1_Breast_Cancer_Block_A_Section_1/
-│
-├── scripts/ # R scripts for each step
-│ ├── 01_load_data.R
-│ ├── 02_quality_control.R
-│ ├── 03_normalization_clustering.R
-│ ├── 04_spatial_visualization.R
-│ └── 05_differential_expression.R
-│
-├── results/ # Output files and plots
-│ ├── spatial_clusters.png
-│ ├── gene_expression_featureplot.png
-│ └── DE_genes.csv
-│
-├── README.md
-└── .gitignore
+
+01_load_data.R
+02_quality_control.R
+03_normalization_clustering.R
+04_spatial_visualization.R
+05_differential_expression.R
 
