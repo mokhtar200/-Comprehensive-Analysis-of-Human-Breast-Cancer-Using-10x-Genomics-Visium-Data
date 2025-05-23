@@ -52,15 +52,10 @@ https://www.10xgenomics.com/datasets/human-breast-cancer-visium-fresh-frozen-who
 
 ## 🗂 Directory Structure
 
-SpatialInsight_BreastCancer/
 
 01_load_data.R
-
 02_quality_control.R
-
 03_normalization_clustering.R
-
 04_spatial_visualization.R
-
 05_differential_expression.R
 
