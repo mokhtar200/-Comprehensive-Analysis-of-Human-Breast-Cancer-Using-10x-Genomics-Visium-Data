@@ -24,8 +24,7 @@ To analyze and visualize spatial gene expression data in human breast cancer tis
 **Source:** 10x Genomics  
 **Description:** Fresh frozen breast cancer tissue section profiled using Visium spatial gene expression solution.  
 **Link:**  
-[https://www.10xgenomics.com/resources/datasets/human-breast-cancer-block-a-section-1-1-standard-1-3-0](https://www.10xgenomics.com/resources/datasets/human-breast-cancer-block-a-section-1-1-standard-1-3-0)
-
+https://www.10xgenomics.com/datasets/human-breast-cancer-visium-fresh-frozen-whole-transcriptome-1-standard
 ---
 
 ## 🧪 Methodology
